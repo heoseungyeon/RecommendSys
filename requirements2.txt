@@ -10,7 +10,7 @@ cryptography==2.8
 Cython==0.29.19
 Django==2.1
 django-rest-knox==4.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 gast==0.2.2
 google-pasta==0.2.0
 grpcio==1.29.0
